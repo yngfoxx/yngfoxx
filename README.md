@@ -6,7 +6,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yngfoxx&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yngfoxx&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=yngfoxx&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=100)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
