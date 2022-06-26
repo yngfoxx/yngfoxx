@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on an industry moving technology 🤫!<br>🤝 Looking to collaborate with idealists and industry movers.<br>🥷 The one and only devKage. [A devKage is a Jack of all dev stack]
+🔭 Currently working on an industry moving technology 🤫!<br>🤝 Looking to collaborate with idealists and industry movers.<br>🥷 The devKage
 
 
 # 💻 Tech Stack:
