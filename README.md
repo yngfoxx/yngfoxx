@@ -1,3 +1,4 @@
+![BANNER](https://media-exp1.licdn.com/dms/image/C4E16AQFW6CGm47wWtA/profile-displaybackgroundimage-shrink_200_800/0/1661290824974?e=1666828800&v=beta&t=KvWV_DPTVXCRpV-w1xBUplKXX6-CJRVdrcKbjChjk3k)
 # 💫 About Me:
 🔭 Currently working on an industry moving technology 🤫!<br>🤝 Looking to collaborate with idealists and industry movers.<br>🥷 The devKage
 
