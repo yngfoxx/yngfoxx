@@ -3,7 +3,6 @@
 # 💫 About Me:
 🥷 I am also known as the devKage<br />
 🔭 Open for possibilities, get in touch!<br />
-🤝 Looking to collaborate with idealists and industry movers.<br />
 
 
 # 💻 Favourite Stack:
