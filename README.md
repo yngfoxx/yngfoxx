@@ -1,7 +1,7 @@
 <img src="ultimate_banner_cropped.png" alt="banner" />
 
 # 💫 About Me:
-🥷 I am also known as the devKage<br />
+🥷 Some people call me devKage<br />
 🔭 Open for possibilities, get in touch!<br />
 
 
