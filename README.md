@@ -24,7 +24,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 # 📊 GitHub Stats:
-|![](https://github-readme-stats-yngfoxs-projects.vercel.app/api?username=yngfoxx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)|![](https://github-readme-streak-stats.herokuapp.com/?user=yngfoxx&theme=dark&hide_border=false)|
+|![](https://github-readme-stats-tau-fawn-49.vercel.app/api?username=yngfoxx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)|![](https://github-readme-streak-stats.herokuapp.com/?user=yngfoxx&theme=dark&hide_border=false)|
 |--|--|
 
 ### ✍️ Random Dev Quote
