@@ -7,7 +7,7 @@
 
 # 💻 Favourite Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwind-gray?logo=tailwindcss)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-white?logo=kubernetes)
